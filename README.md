@@ -1,9 +1,9 @@
 # Solitaire
 
-####Карточная игра Солитер для сайта kartabita.ru
+#### Карточная игра Солитер для сайта kartabita.ru
 
 
-###[Демо](http://www.kartabita.ru/v4/dist/solitaire-socket/)
+### [Демо](http://www.kartabita.ru/v4/dist/solitaire-socket/)
 
 
 * Нативный JS
